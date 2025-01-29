@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.29bc8131.css",
+    "main.js": "/static/js/main.d2c12471.js",
+    "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/uni.png": "/static/media/uni.9d16d0cf30a556b75717.png",
+    "static/media/bill.png": "/static/media/bill.7a15189a9d20e2fa0fee.png",
+    "static/media/music.png": "/static/media/music.177bd581ced6b456ba46.png",
+    "static/media/pglife.png": "/static/media/pglife.ff4454c75595ecde4192.png",
+    "static/media/Veerendra_Fullstack_Web_Developer.pdf": "/static/media/Veerendra_Fullstack_Web_Developer.ac66bddfe7e98cf88243.pdf",
+    "static/media/home-main.svg": "/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/logo.png": "/static/media/logo.8960941a8ccad3f0cc0a.png",
+    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
+    "static/media/pre.svg": "/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/index.html",
+    "main.29bc8131.css.map": "/static/css/main.29bc8131.css.map",
+    "main.d2c12471.js.map": "/static/js/main.d2c12471.js.map",
+    "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29bc8131.css",
+    "static/js/main.d2c12471.js"
+  ]
+}
